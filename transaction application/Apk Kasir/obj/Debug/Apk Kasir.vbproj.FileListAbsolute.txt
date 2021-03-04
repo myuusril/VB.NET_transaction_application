@@ -1,0 +1,54 @@
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\bin\Debug\Apk Kasir.exe.config
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\bin\Debug\Apk Kasir.exe
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\bin\Debug\Apk Kasir.pdb
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\bin\Debug\Apk Kasir.xml
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.vbprojAssemblyReference.cache
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form1.resources
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Resources.resources
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.vbproj.GenerateResource.cache
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.vbproj.CoreCompileInputs.cache
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.exe
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.xml
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.pdb
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form2.resources
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form3.resources
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form4.resources
+D:\STMIK DP\Sem 4\VS\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form5.resources
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.vbprojAssemblyReference.cache
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form1.resources
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form2.resources
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form3.resources
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form4.resources
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Form5.resources
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk_Kasir.Resources.resources
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.vbproj.GenerateResource.cache
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.vbproj.CoreCompileInputs.cache
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.exe
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.xml
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.pdb
+D:\VB.NET\Apk Kasir\Apk Kasir\bin\Debug\Apk Kasir.exe.config
+D:\VB.NET\Apk Kasir\Apk Kasir\bin\Debug\Apk Kasir.exe
+D:\VB.NET\Apk Kasir\Apk Kasir\bin\Debug\Apk Kasir.pdb
+D:\VB.NET\Apk Kasir\Apk Kasir\bin\Debug\Apk Kasir.xml
+D:\VB.NET\Apk Kasir\Apk Kasir\bin\Debug\Interop.Crystal.dll
+D:\VB.NET\Apk Kasir\Apk Kasir\bin\Debug\AxInterop.Crystal.dll
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Interop.Crystal.dll
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\AxInterop.Crystal.dll
+D:\VB.NET\Apk Kasir\Apk Kasir\obj\Debug\Apk Kasir.vbproj.ResolveComReference.cache
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\bin\Debug\Apk Kasir.exe.config
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\bin\Debug\Apk Kasir.exe
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\bin\Debug\Apk Kasir.pdb
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\bin\Debug\Apk Kasir.xml
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk Kasir.vbprojAssemblyReference.cache
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk Kasir.vbproj.ResolveComReference.cache
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk_Kasir.Form1.resources
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk_Kasir.Form2.resources
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk_Kasir.Form3.resources
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk_Kasir.Form4.resources
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk_Kasir.Form5.resources
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk_Kasir.Resources.resources
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk Kasir.vbproj.GenerateResource.cache
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk Kasir.vbproj.CoreCompileInputs.cache
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk Kasir.exe
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk Kasir.xml
+D:\VB.NET\Apk Kasir dibagikan\Apk Kasir\obj\Debug\Apk Kasir.pdb
